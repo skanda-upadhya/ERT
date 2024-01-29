@@ -34,16 +34,14 @@
     
     <tbody>
         <tr>
-            <td>Plant</td>
+            <td>PLANT</td>
             
         </tr>
         <tr>
-            <td>Production</td>
+            <td>UTILITY</td>
             
         </tr>
-        <tr>
-            <td>TNGA</td>
-            
+        
         <!-- Add more rows for additional departments -->
     </tbody>
 </table>
