@@ -14,7 +14,7 @@
                         <p class="name text-danger"></p>
                     </div>
                     <div class="form-group col-md-8">
-                        <label class="fw-bold" style="margin-right:710px;" for="details">Details*</label>
+                        <label class="fw-bold" style="margin-right:710px;" for="details">Details</label>
                         <textarea class="form-control" id="details" name="details" placeholder="Enter Details" fdprocessedid="akmo0w" style="width:560px;height:77px;"></textarea>
                         <p class="details text-danger"></p>
                     </div>

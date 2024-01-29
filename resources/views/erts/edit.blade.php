@@ -21,12 +21,12 @@
                            
                     </div>
                     <div class="form-group col-md-4">
-                        <label class="fw-bold" for="zone" style="margin-right:20px;margin-right:280px;">Zone Name*</label>
+                        <label class="fw-bold" for="zone" style="margin-right:20px;margin-right:280px;">Zone Name</label>
                         <input type="text" class="form-control" id="zone" name="zone" fdprocessedid="gvitjf">
                         <p class="name text-danger"></p>
                     </div>
                     <div class="form-group col-md-4">
-                        <label class="fw-bold" for="department" style="margin-right: 20px;margin-right:278px;">Department*</label>
+                        <label class="fw-bold" for="department" style="margin-right: 20px;margin-right:278px;">Department</label>
                         <input type="text" class="form-control" id="department" name="department" fdprocessedid="gvitjf">
                         <p class="details text-danger"></p>
                     </div>

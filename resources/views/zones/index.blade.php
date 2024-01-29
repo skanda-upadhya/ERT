@@ -41,7 +41,7 @@
                             @foreach($zones as $key => $zone)
                                 <tr>
                                     <td>{{ $key + 1 }} </td>
-                                    <td>{{ $zone->zone }}  <i class="fa fa-eye" style="font-size:21px"></i> </td>
+                                    <td>{{ $zone->zone }} <a href="{{ route('report.index')}}"><i class="fa fa-eye" style="font-size:21px"></i> </a> </td>
                                     <td>{{ $zone->name }}</td>
                                     <td>{{ $zone->details }}</td>
                                     <td>

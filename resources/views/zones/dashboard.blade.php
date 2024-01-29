@@ -26,7 +26,8 @@
     <div class="row justify-content-center">
         <!-- Your card body content goes here -->
         <h5 class="card-center" style="font-weight: bold;font-size:20px;"> Zone 1</h5>
-        <span style="font-size: 24px; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">&#128065;</span>
+        
+        <a href="{{ route('report.index')}}"><i class="fa fa-eye" style="font-size:21px;margin-top:70px;"> </i> </a>
     </div>
 </div>
 
@@ -34,7 +35,7 @@
     <div class="row justify-content-center">
         <!-- Your card body content goes here -->
         <h5 class="card-center" style="font-weight: bold;font-size:20px;"> Zone 2</h5>
-        <span style="font-size: 24px; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">&#128065;</span>
+<a href="{{ route('report.index')}}"><i class="fa fa-eye" style="font-size:21px;margin-top:70px;"> </i> </a>
     </div>
 </div>
 
@@ -42,7 +43,7 @@
     <div class="row justify-content-center">
         <!-- Your card body content goes here -->
         <h5 class="card-center" style="font-weight: bold;font-size:20px;"> Zone 3</h5>
-        <span style="font-size: 24px; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">&#128065;</span>
+        <a href="{{ route('report.index')}}"><i class="fa fa-eye" style="font-size:21px;margin-top:70px;"> </i> </a>
     </div>
 </div>
 @endsection

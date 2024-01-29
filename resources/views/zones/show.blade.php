@@ -13,7 +13,7 @@
                     </div>
                     
                     <div class="form-group col-md-8">
-                        <label class="fw-bold" for="details" style="margin-right:690px;">Details*</label>
+                        <label class="fw-bold" for="details" style="margin-right:690px;">Details</label>
                         <textarea class="form-control" id="details" name="details" placeholder="Enter Details" fdprocessedid="akmo0w" style="width:600px; height: 77px; "> {{ $zone->details }}</textarea>
                         <p class="details text-danger"></p>
                     </div>
